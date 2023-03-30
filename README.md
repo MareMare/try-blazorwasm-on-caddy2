@@ -6,6 +6,8 @@ Blazor wasm (Brotli 圧縮) アプリを Caddy2 でおためし。
 * [Getting Started — Caddy Documentation](https://caddyserver.com/docs/getting-started)
   * [file\_server \(Caddyfile directive\) — Caddy Documentation](https://caddyserver.com/docs/caddyfile/directives/file_server#syntax)
   * [try\_files \(Caddyfile directive\) — Caddy Documentation](https://caddyserver.com/docs/caddyfile/directives/try_files#syntax)
+* [Caddyfile Concepts — Caddy Documentation](https://caddyserver.com/docs/caddyfile/concepts)
+  * [`caddy fmt` — Caddy Documentation](https://caddyserver.com/docs/command-line#caddy-fmt)
 
 ## Blazor WASM (Brotli) の発行
 ```ps1
