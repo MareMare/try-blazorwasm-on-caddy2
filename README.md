@@ -35,4 +35,5 @@ file_server {
     ```ps1
     caddy run --config .\Caddyfile
     ```
-
+* 実行結果
+  ![](result.png)
