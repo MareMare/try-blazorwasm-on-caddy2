@@ -1,0 +1,7 @@
+localhost:2019
+
+root * .\.output\wwwroot
+try_files {path} /index.html
+file_server {
+	precompressed br
+}
