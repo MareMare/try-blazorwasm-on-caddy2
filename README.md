@@ -1,5 +1,7 @@
 # try-blazorwasm-on-caddy2
 
+Blazor wasm (Brotli 圧縮) アプリを Caddy2 でおためし。
+
 * [caddyserver/caddy: Fast and extensible multi\-platform HTTP/1\-2\-3 web server with automatic HTTPS](https://github.com/caddyserver/caddy)
 * [Getting Started — Caddy Documentation](https://caddyserver.com/docs/getting-started)
   * [file\_server \(Caddyfile directive\) — Caddy Documentation](https://caddyserver.com/docs/caddyfile/directives/file_server#syntax)
